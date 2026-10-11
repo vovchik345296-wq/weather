@@ -1,3 +1,4 @@
+cd ~/weather
 cat > .github/workflows/build.yml << 'EOF'
 name: Build APK
 on:
